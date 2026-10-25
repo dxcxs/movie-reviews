@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070027"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000a"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070012"
+  },
+  "rating": 5,
+  "comment": "The Joker carries the whole film.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070028"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000b"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070013"
+  },
+  "rating": 5,
+  "comment": "Sharp, funny, then devastating.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070025"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000a"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070011"
+  },
+  "rating": 5,
+  "comment": "Layered plot and a great score. Needs a second watch.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070029"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000a"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070014"
+  },
+  "rating": 5,
+  "comment": "Beautiful animation, rewatch every year.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070026"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000b"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070011"
+  },
+  "rating": 4,
+  "comment": "Smart and fun, a bit heavy on exposition.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb07002b"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000a"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070016"
+  },
+  "rating": 3,
+  "comment": "Funny in parts, dated in others.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb07002c"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000b"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070017"
+  },
+  "rating": 4,
+  "comment": "Non-stop action, very little dialogue needed.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb07002a"
+  },
+  "user": {
+    "$oid": "6add2bf2bca0f55aeb07000b"
+  },
+  "movie": {
+    "$oid": "6add2bf4bca0f55aeb070015"
+  },
+  "rating": 4,
+  "comment": "Tense and clever.",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-24T22:06:44.132Z"
+  },
+  "__v": 0
+}]

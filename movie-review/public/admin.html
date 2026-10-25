@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css"><title>Admin - Marquee</title></head>
+<body>
+<header class="site-header"><div class="wrap"><a class="logo" href="/">Mar<b>quee</b></a><nav class="nav" id="nav" aria-label="Main"></nav></div></header>
+<main class="wrap pad">
+  <h1 class="page-title">Admin</h1>
+  <div class="tabs" role="tablist" id="tabs">
+    <button role="tab" data-tab="dashboard" aria-selected="true" type="button">Dashboard</button>
+    <button role="tab" data-tab="movies" aria-selected="false" type="button">Movies</button>
+    <button role="tab" data-tab="reviews" aria-selected="false" type="button">Reviews</button>
+    <button role="tab" data-tab="users" aria-selected="false" type="button">Members</button>
+  </div>
+
+  <section id="dashboard"></section>
+
+  <section id="movies" hidden>
+    <div class="toolbar"><span id="movieCount" class="count"></span><button class="btn" id="addMovie" type="button">Add movie</button></div>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Title</th><th>Genre</th><th>Released</th><th>Rating</th><th></th></tr></thead>
+      <tbody id="movieRows"></tbody>
+    </table></div>
+  </section>
+
+  <section id="reviews" hidden>
+    <div class="table-wrap" style="margin-top:16px"><table>
+      <thead><tr><th>Movie</th><th>User</th><th>Rating</th><th>Review</th><th></th></tr></thead>
+      <tbody id="reviewRows"></tbody>
+    </table></div>
+  </section>
+
+  <section id="users" hidden>
+    <div class="table-wrap" style="margin-top:16px"><table>
+      <thead><tr><th>Username</th><th>Role</th><th>Joined</th><th></th></tr></thead>
+      <tbody id="userRows"></tbody>
+    </table></div>
+  </section>
+</main>
+
+<dialog id="dlg">
+  <form id="movieForm" method="dialog" novalidate>
+    <h2 id="dlgTitle">Add movie</h2>
+    <label for="f_title">Title</label><input id="f_title" required>
+    <label for="f_genre">Genre</label><input id="f_genre" list="genreList" required placeholder="Action, Horror, Comedy...">
+    <datalist id="genreList"><option>Action</option><option>Horror</option><option>Comedy</option><option>Drama</option><option>Sci-Fi</option><option>Animation</option><option>Thriller</option><option>Romance</option></datalist>
+    <label for="f_date">Release date</label><input id="f_date" type="date" required>
+    <label for="f_poster">Poster image URL (optional)</label><input id="f_poster" type="url" placeholder="https://...">
+    <label for="f_director">Director</label><input id="f_director">
+    <label for="f_cast">Cast (separate with commas)</label><input id="f_cast" placeholder="Actor One, Actor Two, Actor Three">
+    <label for="f_tagline">Tagline (optional)</label><input id="f_tagline" maxlength="200">
+    <label for="f_trailer">Trailer (YouTube link, or your file like /videos/inception.mp4)</label><input id="f_trailer" placeholder="https://www.youtube.com/watch?v=...  or  /videos/inception.mp4">
+    <label for="f_backdrop">Backdrop image URL (wide, optional)</label><input id="f_backdrop" type="url" placeholder="https://...">
+    <label for="f_runtime">Runtime (e.g. 1h 30m)</label><input id="f_runtime" maxlength="20" placeholder="1h 30m">
+    <label for="f_desc">Description</label><textarea id="f_desc"></textarea>
+    <p class="msg" id="dlgMsg" role="alert"></p>
+    <div class="dialog-actions">
+      <button class="btn ghost" id="cancelBtn" type="button">Cancel</button>
+      <button class="btn" type="submit">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="/js/common.js"></script>
+<script src="/js/admin.js"></script>
+</body></html>

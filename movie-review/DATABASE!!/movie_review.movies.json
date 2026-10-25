@@ -1,0 +1,333 @@
+[{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070012"
+  },
+  "title": "The Dark Knight",
+  "genre": "Action",
+  "releaseDate": {
+    "$date": "2008-07-18T00:00:00.000Z"
+  },
+  "description": "Batman faces the Joker, a criminal who wants to push Gotham into chaos.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/pKKvCaL1TPTVtbI6EeliyND3api.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T06:14:21.025Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+  "runtime": "2h 32m",
+  "cast": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart",
+    "Michael Caine",
+    "Gary Oldman"
+  ],
+  "director": "Christopher Nolan",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070015"
+  },
+  "title": "Get Out",
+  "genre": "Horror",
+  "releaseDate": {
+    "$date": "2017-02-24T00:00:00.000Z"
+  },
+  "description": "A young man visits his girlfriend's family and finds something is deeply wrong.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w300_and_h450_face/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T16:10:04.817Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg",
+  "runtime": "1h 44m",
+  "cast": [
+    "Daniel Kaluuya",
+    "Allison Williams",
+    "Catherine Keener",
+    "Bradley Whitford",
+    "Caleb Landry Jones"
+  ],
+  "director": "Jordan Peele",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=DzfpyUB60YY"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070014"
+  },
+  "title": "Spirited Away",
+  "genre": "Animation",
+  "releaseDate": {
+    "$date": "2001-07-20T00:00:00.000Z"
+  },
+  "description": "A girl enters a world of spirits and must work in a bathhouse to free her parents.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T06:13:04.430Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w500_and_h282_face/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+  "runtime": "2h 5m",
+  "cast": [
+    "Rumi Hiiragi",
+    "Miyu Irino",
+    "Mari Natsuki",
+    "Takashi Naito"
+  ],
+  "director": "Hayao Miyazaki",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=fDUFP7EeXLE"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070013"
+  },
+  "title": "Parasite",
+  "genre": "Drama",
+  "releaseDate": {
+    "$date": "2019-05-30T00:00:00.000Z"
+  },
+  "description": "A poor family slowly works its way into the life of a wealthy household.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T06:11:52.161Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+  "runtime": "2h 13m",
+  "cast": [
+    "Song Kang-ho",
+    "Lee Sun-kyun",
+    "Cho Yeo-jeong",
+    "Choi Woo-shik",
+    "Park So-dam"
+  ],
+  "director": "Bong Joon-ho",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=isOGD_7hNIY"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070011"
+  },
+  "title": "Inception",
+  "genre": "Sci-Fi",
+  "releaseDate": {
+    "$date": "2010-07-16T00:00:00.000Z"
+  },
+  "description": "A thief who steals secrets from dreams is offered a chance to plant an idea instead.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w300_and_h450_face/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T06:10:07.683Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+  "runtime": "2h 28m",
+  "cast": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page",
+    "Tom Hardy",
+    "Cillian Murphy"
+  ],
+  "director": "Christopher Nolan",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070016"
+  },
+  "title": "Superbad",
+  "genre": "Comedy",
+  "releaseDate": {
+    "$date": "2007-08-17T00:00:00.000Z"
+  },
+  "description": "Two high school friends try to get alcohol for a party before graduation.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w300_and_h450_face/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T16:10:07.320Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+  "runtime": "1h 53m",
+  "cast": [
+    "Jonah Hill",
+    "Michael Cera",
+    "Christopher Mintz-Plasse",
+    "Seth Rogen",
+    "Bill Hader"
+  ],
+  "director": "Greg Mottola",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070019"
+  },
+  "title": "Her",
+  "genre": "Drama",
+  "releaseDate": {
+    "$date": "2013-12-18T00:00:00.000Z"
+  },
+  "description": "A lonely writer falls in love with an AI operating system.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w300_and_h450_face/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.113Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T04:52:05.677Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/1YnZchmaGc8dchgRPDpR1KGrixA.jpg",
+  "runtime": "2h 6m",
+  "cast": [
+    "Joaquin Phoenix",
+    "Scarlett Johansson",
+    "Amy Adams",
+    "Rooney Mara",
+    "Olivia Wilde"
+  ],
+  "director": "Spike Jonze",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=dJTU48_yghs"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb07001a"
+  },
+  "title": "Paddington 2",
+  "genre": "Comedy",
+  "releaseDate": {
+    "$date": "2017-11-10T00:00:00.000Z"
+  },
+  "description": "Paddington is wrongly jailed for a theft and his family sets out to clear his name.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w300_and_h450_face/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.113Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T06:11:46.028Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/iJgNOTSBNrC90U2xyYq9ln0b35o.jpg",
+  "runtime": "1h 44m",
+  "cast": [
+    "Ben Whishaw",
+    "Hugh Grant",
+    "Hugh Bonneville",
+    "Sally Hawkins",
+    "Brendan Gleeson"
+  ],
+  "director": "Paul King",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=sw7RElt-SvE"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070017"
+  },
+  "title": "Mad Max: Fury Road",
+  "genre": "Action",
+  "releaseDate": {
+    "$date": "2015-05-15T00:00:00.000Z"
+  },
+  "description": "In a desert wasteland, a drifter helps a rebel escape a tyrant in a long chase.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w300_and_h450_face/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.112Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T06:11:15.386Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+  "runtime": "2h 1m",
+  "cast": [
+    "Tom Hardy",
+    "Charlize Theron",
+    "Nicholas Hoult",
+    "Hugh Keays-Byrne",
+    "Zoë Kravitz"
+  ],
+  "director": "George Miller",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
+},
+{
+  "_id": {
+    "$oid": "6add2bf4bca0f55aeb070018"
+  },
+  "title": "The Conjuring",
+  "genre": "Horror",
+  "releaseDate": {
+    "$date": "2013-07-19T00:00:00.000Z"
+  },
+  "description": "Paranormal investigators help a family terrorized by a dark presence in their farmhouse.",
+  "posterUrl": "https://media.themoviedb.org/t/p/w300_and_h450_face/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+  "createdAt": {
+    "$date": "2026-10-24T22:06:44.113Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T06:13:56.123Z"
+  },
+  "__v": 0,
+  "backdropUrl": "https://media.themoviedb.org/t/p/w533_and_h300_face/ecKQlAEG95k62SMGhvX83oEqANK.jpg",
+  "runtime": "1h 52m",
+  "cast": [
+    "Vera Farmiga",
+    "Patrick Wilson",
+    "Lili Taylor",
+    "Ron Livingston"
+  ],
+  "director": "James Wan",
+  "tagline": "",
+  "trailerUrl": "https://www.youtube.com/watch?v=ejMMn0t58Lc"
+},
+{
+  "_id": {
+    "$oid": "6ade29fd3108ad55e2b315c0"
+  },
+  "title": "addada",
+  "genre": "Action",
+  "releaseDate": {
+    "$date": "2026-10-15T00:00:00.000Z"
+  },
+  "description": "",
+  "posterUrl": "",
+  "backdropUrl": "",
+  "director": "asdadas",
+  "cast": [],
+  "tagline": "asadssd",
+  "trailerUrl": "",
+  "runtime": "",
+  "createdAt": {
+    "$date": "2026-10-25T16:10:37.694Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T16:10:57.908Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,14 @@
+[{
+  "_id": "Eii_0UsT88ewt5bVsVXsHmSWh92wydNz",
+  "expires": {
+    "$date": "2026-10-25T18:11:42.084Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":7200000,\"expires\":\"2026-10-25T18:09:27.288Z\",\"httpOnly\":true,\"path\":\"/\"},\"user\":{\"id\":\"6add2bf2bca0f55aeb070009\",\"username\":\"admin\",\"role\":\"admin\"}}"
+},
+{
+  "_id": "1T_msx2fl8pp4Htvojmw-EI5DRJGYH3D",
+  "expires": {
+    "$date": "2026-10-25T18:47:00.196Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":7200000,\"expires\":\"2026-10-25T18:22:34.134Z\",\"httpOnly\":true,\"path\":\"/\"},\"user\":{\"id\":\"6add2bf2bca0f55aeb070009\",\"username\":\"admin\",\"role\":\"admin\"}}"
+}]

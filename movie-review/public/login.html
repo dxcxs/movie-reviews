@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css"><title>Log in - Marquee</title></head>
+<body class="auth-page">
+<header class="site-header"><div class="wrap"><a class="logo" href="/">Mar<b>quee</b></a><nav class="nav" id="nav" aria-label="Main"></nav></div></header>
+<main class="wrap">
+  <div class="auth">
+    <h1>Welcome</h1>
+    <div class="tabs" role="tablist">
+      <button role="tab" id="tabLogin" aria-selected="true" type="button">Log in</button>
+      <button role="tab" id="tabRegister" aria-selected="false" type="button">Create account</button>
+    </div>
+    <form id="form" novalidate>
+      <label for="username">Username</label>
+      <input id="username" autocomplete="username" required>
+      <label for="password">Password</label>
+      <input id="password" type="password" autocomplete="current-password" required>
+      <div id="confirmBox" hidden>
+        <label for="confirm">Confirm password</label>
+        <input id="confirm" type="password" autocomplete="new-password">
+      </div>
+      <p class="msg" id="msg" role="alert"></p>
+      <button class="btn" id="submit" type="submit" style="width:100%;margin-top:8px">Log in</button>
+    </form>
+  </div>
+</main>
+<script src="/js/common.js"></script>
+<script src="/js/login.js"></script>
+</body></html>

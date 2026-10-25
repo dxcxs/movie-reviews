@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6add2bf2bca0f55aeb07000a"
+  },
+  "username": "user1",
+  "password": "$2a$10$QgTH9FaFTyzN0makHtHmvOgLsEkXiw7L1cS.06j4iZbU41KXbe2ne",
+  "role": "user",
+  "favorites": [],
+  "createdAt": {
+    "$date": "2026-10-24T22:06:42.661Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T16:02:49.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf2bca0f55aeb070009"
+  },
+  "username": "admin",
+  "password": "$2a$10$1oyCKn8NtH2h8AuOCQtcZ.aNuL/BxdQZwOYzW4Yz.gw1CAupBs6Le",
+  "role": "admin",
+  "favorites": [],
+  "createdAt": {
+    "$date": "2026-10-24T22:06:42.660Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T16:44:40.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6add2bf2bca0f55aeb07000b"
+  },
+  "username": "user2",
+  "password": "$2a$10$k2wRbhXK/ByOzPzdHZxvr.CxtatCA4ro0dkKxADtB2/XQzOIP99ui",
+  "role": "user",
+  "favorites": [],
+  "createdAt": {
+    "$date": "2026-10-24T22:06:42.661Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-25T16:02:49.503Z"
+  },
+  "__v": 0
+}]
