@@ -1,5 +1,7 @@
 # Marquee – ระบบรีวิวภาพยนตร์ออนไลน์
 
+> 📄 **เอกสารระบบ (System Documentation):** [docs/SYSTEM_DOCUMENTATION.md](docs/SYSTEM_DOCUMENTATION.md) – System Overview, User Roles, Functional Requirements, User Flow, Site Map, Screenshots, วิธีการใช้งานระบบ
+
 Web Application สำหรับค้นหาและดูข้อมูลภาพยนตร์ ให้คะแนนและเขียนรีวิว เพิ่มภาพยนตร์ในรายการโปรด และให้ผู้ดูแลระบบจัดการข้อมูลภาพยนตร์ รีวิว และสมาชิก ข้อมูลทั้งหมดเก็บในฐานข้อมูล MongoDB
 
 ## สมาชิก
@@ -166,4 +168,3 @@ public/             HTML, css/, js/, images/, videos/
 - ก่อนใช้งานจริงควรเปลี่ยน `SESSION_SECRET` และรหัสผ่าน Admin
 - ห้ามอัปโหลดไฟล์ `.env` ขึ้น GitHub (อยู่ใน `.gitignore` แล้ว)
 - README ภาษาอังกฤษอยู่ที่ `README.en.md`
-- เอกสารระบบฉบับเต็ม (User Flow, Site Map, Screenshots ฯลฯ) อยู่ที่ `docs/SYSTEM_DOCUMENTATION.md`
